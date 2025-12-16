@@ -5,9 +5,10 @@
 </h3>
 
 <h4>Data Structure and Algorithms Programs | Labs Work </h4>
-![Language](https://img.shields.io/badge/Language-C%2B%2B-blue)<br>
-![Course](https://img.shields.io/badge/Course-DSA-green)<br>
-![Status](https://img.shields.io/badge/Status-Learning-orange)<br>
+
+![Language](https://img.shields.io/badge/Language-C%2B%2B-blue)
+![Course](https://img.shields.io/badge/Course-DSA-green)
+![Status](https://img.shields.io/badge/Status-Learning-orange)
 <br>
 This repository contains my **Data Structures and Algorithms (DSA)** coursework and practice implementations. It is designed to build a strong foundation in both **linear** and **non-linear** data structures along with commonly used **sorting algorithms**.
 The implementations focus on **clarity, logic building, and academic understanding**, making this repository useful for students, beginners, and anyone revising core DSA concepts.
@@ -83,3 +84,22 @@ Sorting algorithms arrange data in a specific order (ascending or descending).
 * **Insertion Sort** – Efficient for small datasets
 * **Selection Sort** – Simple logic, fixed comparisons
 * **Merge Sort** – Divide & Conquer, efficient for large data
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
