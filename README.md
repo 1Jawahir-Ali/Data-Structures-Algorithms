@@ -1,9 +1,9 @@
 # Data-Structures-Algorithms  
-## Author
+### Author
 <h3 style="text-align: center;">
   Jawahir Ali | Software Engineering Student | University of Azad Jammu & Kashmir (UAJ&K)
 </h3>
-
+<hr>
 <h4>Data Structure and Algorithms Programs | Labs Work </h4>
 
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-blue)
